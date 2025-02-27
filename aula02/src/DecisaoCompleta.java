@@ -9,6 +9,7 @@ public class DecisaoCompleta {
             System.out.println("Maior de idade");
         }else { //o resultado da condição é falso executa o else
             System.out.println("Menor de idade");
+            System.out.println("Fim da Decisão");
         }
     }
 }
